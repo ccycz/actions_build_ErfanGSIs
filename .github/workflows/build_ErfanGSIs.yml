@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://down.ws59.cn/be1oyh9/5/g1/5g1cbe1oyh9?cdn_sign=1621300196-53-0-23bf3c9dad519662c6f74c3b5d3c5cc9&exp=9600&response-content-disposition=attachment%3B%20filename%3D%22f91_update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/20.1.9/miui_MI6_20.1.9_478bfa515a_9.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
